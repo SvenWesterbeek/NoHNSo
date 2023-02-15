@@ -1,4 +1,8 @@
 # NoHNSo
+   _  __       __ __ _  __ ____    
+  / |/ /___   / // // |/ // __/___ 
+ /    // _ \ / _  //    /_\ \ / _ \
+/_/|_/ \___//_//_//_/|_//___/ \___/
 
 Welcome to NoHNSo, the Nonlinear Harmonic Navier-Stokes Solver. 
 

@@ -15,7 +15,7 @@ The following cases are currently implemented and tested:
 
 NoHNSo was designed for use on local desktops and is currently not optimized for High-Performance Computing (HPC). However, NoHNSo runs on HPC environments as well when more demanding cases are performed.
 
-Documentation detailing the use of the code (inputs, outputs, bug fixing etc.) can be found on (LINK).
+Documentation detailing the use of the code (inputs, outputs, bug fixing etc.) can be found on https://svenwesterbeek.github.io/NoHNSo/.
 
 #LicenseInfo?
 

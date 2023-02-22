@@ -13,7 +13,7 @@ The following cases are currently implemented and tested:
   3. Boundary layer transition featuring a sharp step.
   4. Boundary layer transition featuring blowing and suction at the wall.
 
-NoHNSo was designed for use on local desktops and is currently not optimized for High-Performance Computing (HPC). However, NoHNSo runs on HPC environments as well when more demanding cases are performed.
+NoHNSo was designed for use on local desktops and is currently not optimized for High-Performance Computing (HPC). However, NoHNSo can be used in HPC environments as well when necessary.
 
 Documentation detailing the use of the code (inputs, outputs, bug fixing etc.) can be found on https://svenwesterbeek.github.io/NoHNSo/.
 
